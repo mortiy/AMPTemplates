@@ -2222,5 +2222,33 @@
             "testing": "Testing (beta and RC)",
             "nightly": "Nightly"
         }
-    }
+    },
+  {
+    "DisplayName": "FIRS Configuration",
+    "Category": "OpenTTD:stadia_controller",
+    "Subcategory": "Creation:build:8",
+    "Description": "Sets a custom NewGRF source",
+    "Keywords": "newgrf,firs",
+    "FieldName": "newgrf",
+    "InputType": "text",
+    "IsFlagArgument": false,
+    "ParamFieldName": "newgrf.F1250009|B7682E1DA1CA2D2DE98CFDAA4CF9E1DF|firs.grf",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "",
+    "EnumValues": {}
+  },
+  {
+    "DisplayName": "FIRS Configuration",
+    "Category": "OpenTTD:stadia_controller",
+    "Subcategory": "Creation:build:8",
+    "Description": "Sets a custom NewGRF source",
+    "Keywords": "newgrf,firs",
+    "FieldName": "newgrf",
+    "InputType": "text",
+    "IsFlagArgument": false,
+    "ParamFieldName": "newgrf.F1250009|B7682E1DA1CA2D2DE98CFDAA4CF9E1DF|firs.grf",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "",
+    "EnumValues": {}
+  }
 ]
